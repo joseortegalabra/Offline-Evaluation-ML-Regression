@@ -1,6 +1,9 @@
 # Offline-Evaluation-ML-Regression
 This Repo containts code to Offline Evaluation for ML Models. This repo is focused in Regression Models
 
+### DISCLAIMER
+The dataset used in this example is
+
 
 
 Packages utilizados:
