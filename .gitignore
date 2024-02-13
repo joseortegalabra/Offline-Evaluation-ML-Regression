@@ -16,6 +16,14 @@ gurobi.lic
 *.pkl
 
 
+# files images
+.png
+**/.png
+*.png
+
+.html
+**/.html
+*.html
 
 
 
